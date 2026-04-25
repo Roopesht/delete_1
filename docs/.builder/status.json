@@ -1,0 +1,72 @@
+{
+  "project": {
+    "name": "My project",
+    "slug": "my-project",
+    "project_root": "/Users/roopesh/projects/delete_1",
+    "docs_root": "/Users/roopesh/projects/delete_1/docs",
+    "created_at": "2026-04-20T12:00:47.718738+00:00"
+  },
+  "modules": [
+    {
+      "name": "User Portal",
+      "slug": "user-portal",
+      "priority": "HIGH",
+      "description": "This portal will have user info, he can manage",
+      "stages": {
+        "prep": {
+          "requirements": {
+            "status": "not_started"
+          },
+          "user_flows": {
+            "status": "not_started"
+          },
+          "design_system": {
+            "status": "not_started"
+          },
+          "content": {
+            "status": "not_started"
+          },
+          "validation": {
+            "status": "not_started"
+          }
+        },
+        "build": {
+          "foundation": {
+            "status": "not_started"
+          },
+          "tranches": []
+        },
+        "post": {
+          "backup": {
+            "status": "not_started"
+          },
+          "monitoring": {
+            "status": "not_started"
+          },
+          "security": {
+            "status": "not_started"
+          },
+          "cicd": {
+            "status": "not_started"
+          },
+          "support": {
+            "status": "not_started"
+          },
+          "audit": {
+            "status": "not_started"
+          },
+          "scalability": {
+            "status": "not_started"
+          }
+        }
+      },
+      "features": []
+    }
+  ],
+  "focus_module": "user-portal",
+  "solution": {
+    "solution": {
+      "status": "approved"
+    }
+  }
+}
